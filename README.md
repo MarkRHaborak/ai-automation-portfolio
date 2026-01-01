@@ -189,9 +189,9 @@ Building toward Hartford finance interviews:
 
 If you're hiring for **FinOPS, AI Automation, or Business Automation Analyst** roles in **Hartford/Connecticut**, let's talk.
 
-📧 **Email:** your.email@gmail.com  
-💼 **LinkedIn:** [Your LinkedIn URL]  
-🐙 **GitHub:** github.com/markhaborak
+📧 **Email:** mark.haborak@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/mhaborak/
+🐙 GitHub: MarkRHaborak
 
 ---
 
