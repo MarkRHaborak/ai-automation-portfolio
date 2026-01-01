@@ -173,31 +173,4 @@ As I learn each chapter, I'll add practice scripts here:
 *Last updated: January 1, 2026 (Chapter 3 in progress)*
 *Next update: January 5, 2026 (Week 1 completion)*
 
-```
-
-***
-
-## 📝 **How to Add This:**
-
-1. **Open VS Code**
-2. **Open:** `01-python-fundamentals/README.md`
-3. **Paste the content above**
-4. **Save** (Ctrl+S)
-5. **Push to GitHub:**
-
-```powershell
-git add .
-git commit -m "Add Python Fundamentals README with progress tracking"
-git push origin main
-```
-
-
-***
-
-**This README serves as:**
-
-- ✅ **Progress tracker** (current chapter at a glance)
-- ✅ **Learning notes** (key concepts documented)
-- ✅ **Hiring manager proof** (shows learning discipline)
-- ✅ **Your reference** (come back to it in Week 2)
 
