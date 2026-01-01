@@ -12,7 +12,6 @@
 I combine **deep operational expertise** with **emerging AI skills** to build practical automation solutions for enterprise organizations. This portfolio documents my intentional career pivot from infrastructure management to AI-powered automation in the Hartford finance sector.
 
 **Target Roles:** FinOPS Specialist | AI Automation Specialist | Business Automation Analyst  
-**Target Companies:** Travelers, Hartford Insurance, Aetna, Cigna, local banks  
 **Timeline:** 12-week intensive transition (Jan–Mar 2026)
 
 ---
