@@ -1,9 +1,7 @@
 
 ## 📝 **Create Project 1 README**
 
-Open `02-project-1-cost-anomaly/README.md` in VS Code and **paste this:**
 
-```markdown
 # Cloud Cost Anomaly Detector
 
 **Project Status:** Building (Weeks 3–5, Jan 13–Feb 2, 2026)  
